@@ -1,4 +1,3 @@
-import profilepic from "../assets/my photo.png";
 import { FaLinkedin, FaGithub, FaInstagramSquare } from "react-icons/fa";
 import { MdDownload } from "react-icons/md";
 import { Link } from "react-scroll";
@@ -9,7 +8,7 @@ const Home = () => {
         <div className="flex lg:w-1/2 justify-center mb-6 lg:mb-0">
           <img
             className="h-52 w-52 md:h-72 md:w-72 lg:w-96 lg:h-96 rounded-full object-cover"
-            src={profilepic}
+            src="https://www.strasys.uk/wp-content/uploads/2022/02/Depositphotos_484354208_S.jpg"
             alt="profile"
           />
         </div>
