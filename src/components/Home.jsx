@@ -14,7 +14,7 @@ const Home = () => {
         </div>
         <div className="lg:w-1/2 lg:flex lg:flex-col justify-center">
           <div className="text-lg space-y-3 lg:text-left lg:text-2xl leading-normal md:leading-10">
-            <h1>Hello!</h1>
+            <h2>Hello!</h2>
             <p>
               My name is,{" "}
               <span className="text-2xl lg:text-4xl font-semibold">
@@ -84,3 +84,4 @@ const Home = () => {
 };
 
 export default Home;
+
